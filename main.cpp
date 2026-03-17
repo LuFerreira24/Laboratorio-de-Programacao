@@ -4,7 +4,7 @@
 int main()
 {
     printf("Hello World!\n");
-    printf("Feito na Faculdade\n");
-    printf("Feito por mim\n");
+    scanf("%*s");
     return 0;
 }
+
