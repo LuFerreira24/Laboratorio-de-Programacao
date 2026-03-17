@@ -77,7 +77,7 @@ void editarContato(Contato contatos[], int total) {
 
    printf("Novo nome: "); 
    scanf(" %[^\n]", contatos[indice].nome);
-
+   
     printf("Novo telefone: ");
     scanf("%s", contatos[indice].telefone);
 
