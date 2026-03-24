@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/luferreira24/FACULDADE/Laboratorio-de-Programacao/output/contatos'
+relocations:     []
+...
